@@ -1,0 +1,14 @@
+.btn {
+  display: inline-block;
+  padding: 12px 25px;
+  background: rgb(231, 187, 9);
+  color: rgb(240, 6, 6);
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.navbar {
+  background: #fbff00;
+  color: rgb(240, 8, 8);
+  padding: 15px 0;
+}
